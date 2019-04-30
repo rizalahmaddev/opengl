@@ -1,1 +1,1 @@
-[Drawing_Primitives](https://www.transmissionzero.co.uk/computing/using-glut-with-mingw/])
+[Drawing_Primitives](https://pbs.twimg.com/media/D5bi28CUwAA1Exr?format=png&name=small)
