@@ -1,3 +1,6 @@
+/*This source code copyrighted by rizal ahmad' Productions (2019)
+and may not be redistributed without written permission.*/
+
 #include <windows.h>
 #include <GL/glut.h>
 
